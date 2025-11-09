@@ -1,7 +1,6 @@
 进制转换器
 
-https://img.shields.io/badge/Python-3.6+-blue.svg
-https://img.shields.io/badge/License-MIT-green.svg
+https://img.shields.io/badge/Python-3.6+-blue.svg https://img.shields.io/badge/License-MIT-green.svg
 https://img.shields.io/badge/Author-XiaoYao-orange.svg
 https://img.shields.io/badge/Organization-Alfadi联盟-purple.svg
 
